@@ -1,6 +1,6 @@
 # ShadowsocksR
 
-## ShadowsocksR 4.7.0
+ShadowsocksR 4.7.0
 
 * 查询SSR运行状态：/etc/init.d/ssr status;
 
