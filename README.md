@@ -1,6 +1,8 @@
 # ShadowsocksR
+
 ShadowsocksR 4.7.0
 
+****
 
 * 查询SSR运行状态：/etc/init.d/ssr status;
 
@@ -8,7 +10,7 @@ ShadowsocksR 4.7.0
 * 查询SSR详细信息：bash ssr.sh;
 
 
-* 查询锐速运行状态:/appex/bin/serverSpeeder.sh status;
+* 查询锐速运行状态：/appex/bin/serverSpeeder.sh status;
 
 
 * SSR服务端一键安装脚本：https://github.com/bluekk935/ToyoDAdoubi
