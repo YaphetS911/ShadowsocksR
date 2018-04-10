@@ -12,7 +12,9 @@ ShadowsocksR 4.7.0
 
 * 锐速安装脚本：https://github.com/0oVicero0/serverSpeeder_Install
 
-* SSR备份地址：https://github.com/shadowsocksr-backup/shadowsocks-rss
+* SSR备份地址1：https://github.com/shadowsocksr-backup/shadowsocks-rss
+
+* SSR备份地址2：https://github.com/ssrbackup/shadowsocks-rss
 
 * 参考资料1：http://jasper-1024.github.io/2016/06/27/VPS%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E6%95%99%E7%A8%8B%E7%B3%BB%E5%88%972/
 
