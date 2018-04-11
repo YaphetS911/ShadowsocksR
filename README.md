@@ -16,13 +16,13 @@ ShadowsocksR 4.7.0
 
 * SSR备份地址2：https://github.com/ssrbackup/shadowsocks-rss
 
-* Shadowrocket 规则1：https://github.com/ConnersHua/Profiles
+* Shadowrocket规则1：https://github.com/ConnersHua/Profiles
 
-* Shadowrocket 规则2：https://github.com/yfsony/lhie1
+* Shadowrocket规则2：https://github.com/yfsony/lhie1
 
-* Shadowrocket 规则3：https://github.com/h2y/Shadowrocket-ADBlock-Rules
+* Shadowrocket规则3：https://github.com/h2y/Shadowrocket-ADBlock-Rules
 
-* Shadowrocket 规则4：https://github.com/Hsiny/Shadowrocket-Config
+* Shadowrocket规则4：https://github.com/Hsiny/Shadowrocket-Config
 
 * 参考资料1：https://jasper-1024.github.io/2016/06/26/VPS%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E6%95%99%E7%A8%8B%E7%B3%BB%E5%88%97/
 
