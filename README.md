@@ -27,4 +27,4 @@ ShadowsocksR 4.7.0
 * 参考资料1：https://jasper-1024.github.io/2016/06/26/VPS%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E6%95%99%E7%A8%8B%E7%B3%BB%E5%88%97/
 
 * 参考资料2：https://github.com/getlantern/forum/issues/8092
-//https://blog.siaimes.me/2017/11/09/p6.html
+（暂时）//https://blog.siaimes.me/2017/11/09/p6.html
