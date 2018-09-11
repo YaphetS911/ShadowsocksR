@@ -18,7 +18,7 @@ ShadowsocksR 4.7.0
 
 * Shadowrocket规则1：https://github.com/ConnersHua/Profiles
 
-* Shadowrocket规则2：https://github.com/yfsony/lhie1
+* Shadowrocket规则2：https://github.com/lhie1/Rules
 
 * Shadowrocket规则3：https://github.com/h2y/Shadowrocket-ADBlock-Rules
 
