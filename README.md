@@ -28,8 +28,6 @@ ShadowsocksR 4.7.0
 
 * 参考资料2：https://blog.siaimes.me/2017/11/09/p6.html
 
-
-
 # v2ray
 
 * 官方Github：https://github.com/v2ray/v2ray-core
