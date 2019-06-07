@@ -26,5 +26,18 @@ ShadowsocksR 4.7.0
 
 * 参考资料1：https://jasper-1024.github.io/2016/06/26/VPS%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E6%95%99%E7%A8%8B%E7%B3%BB%E5%88%97/
 
-* 参考资料2：https://github.com/getlantern/forum/issues/8092
-（暂时）//https://blog.siaimes.me/2017/11/09/p6.html
+* 参考资料2：https://blog.siaimes.me/2017/11/09/p6.html
+
+# v2ray
+
+* 官方Github：https://github.com/v2ray/v2ray-core
+
+* 233一键脚本：https://github.com/233boy/v2ray
+
+* 233一键脚本命令：https://github.com/233boy/v2ray/wiki/V2Ray%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E8%84%9A%E6%9C%AC
+
+* ws+tls+cf视频：https://www.youtube.com/watch?v=-GH7DOlqe-M
+
+* 伪装站点视频：https://www.youtube.com/watch?v=DtJDpy73Uu4&t=6s
+
+* tcp优化教程：https://canmipai.com/index.php/2018/06/28/v2ray_h2_web_tutorial/
